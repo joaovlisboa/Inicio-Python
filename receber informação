@@ -1,0 +1,4 @@
+nome = input ("digite o nome")
+idade = input ("digite a idade")
+
+print(f"{nome} tem {idade} anos.")
